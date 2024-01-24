@@ -1,2 +1,2 @@
 # Live Link
-PSD to HTML - Minimo
+https://tahmidshahriar007.github.io/minimo/
