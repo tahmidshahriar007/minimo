@@ -1,0 +1,14 @@
+color:
+
+black: #000000
+grey: #626262
+light color: #B4AB9B 
+newsletter color: 
+
+Fonts:
+PlayfairDisplay Regular
+Ubuntu Light
+
+f_single pic size:
+w:420
+h:280
